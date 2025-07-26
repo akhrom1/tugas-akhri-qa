@@ -6,7 +6,7 @@ Buatlah automasi pada fitur login, forgot password, menu dashboard (Directory) p
 link Tree
 cypress/
 ├── downloads
-├── e2e
+/n├── e2e
 │   ├── ORM_0.0.1-Login
 │   │   ├── 0.0.1.a.login.cy.js
 │   │   └── 0.0.1.b.forgot_password.cy.js
