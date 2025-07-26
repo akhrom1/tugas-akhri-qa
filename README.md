@@ -41,7 +41,7 @@ cypress/
 
   <h2>🔗 Share Link Sosial Media</h2>
   <p>
-    Silakan cek video/demo proyek ini di platform media sosial:
+    Silakan cek video/demo proyek ini di platform :
   </p>
   <ul>
     <li>Youtube: <a href="https://youtu.be/qCCMGn2mELY">Final Project Quality Assurance Engineer Sanbercode</a></li>
